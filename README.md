@@ -1,11 +1,11 @@
 # contacts-app
 A full-stack web application for managing contacts, built with **React (frontend)** and **Spring Boot (backend)**.
-
-# Backend Requirements:
+---
+**Backend Requirements:**
 Java 17+ (OpenJDK): https://www.java.com/en/download/manual.jsp
 Maven Installed and in your PATH: https://maven.apache.org/download.cgi
-
-# Front End Requirements
+---
+**Front End Requirements:**
 Node.js (version 16+ reccomended): https://nodejs.org/en/download
 
 
@@ -25,6 +25,6 @@ Node.js (version 16+ reccomended): https://nodejs.org/en/download
 4. Click **Generate**, then unzip the project
 
 ---
-### 🛠️ Replace Project Files
+### Replace Project Files
 
 Once generated, replace the contents of your new project's `src/` folder with the files in this repo:
