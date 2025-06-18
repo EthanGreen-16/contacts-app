@@ -8,7 +8,11 @@ A full-stack web application for managing contacts, built with **React (frontend
 **Backend Requirements:**<br>
 Java 17+ (OpenJDK): https://www.java.com/en/download/manual.jsp<br>
 Maven Installed and in your PATH: https://maven.apache.org/download.cgi<br>
+
+
 ---
+
+
 **Front End Requirements:**
 Node.js (version 16+ reccomended): https://nodejs.org/en/download
 
