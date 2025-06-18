@@ -48,7 +48,7 @@ Node.js (version 16+ reccomended): https://nodejs.org/en/download
 ---
 
 ### Step 3: Replace Project Files
-   - Once donwloaded, replace the contents of your new project's `src/` folder with the files in this repo:
+   - Once downloaded, replace the contents from the repository into there respective places in your `contacts-app` folder
 
 ---
 
