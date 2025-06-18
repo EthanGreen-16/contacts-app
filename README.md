@@ -16,7 +16,9 @@ Maven Installed and in your PATH: https://maven.apache.org/download.cgi<br>
 **Front End Requirements:**
 Node.js (version 16+ reccomended): https://nodejs.org/en/download
 
+---
 
+**How to Install**
 1. Go to [Spring Initializr](https://start.spring.io/)
 2. Use the following settings:
    - **Project**: Maven
