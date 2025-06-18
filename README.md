@@ -38,7 +38,7 @@ Node.js (version 16+ reccomended): https://nodejs.org/en/download
 ### Step 1: Create a main Folder
    - Create a folder named `contacts-app`
    - Place this folder wherever you like just somewhere you are easily able to access again
-   - Move the contacts-backend into this folder
+   - Extract the contacts-backend into this folder
 
 ---
 ### Step 2: Creating Front End
