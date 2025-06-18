@@ -5,7 +5,7 @@ A full-stack web application for managing contacts, built with **React (frontend
 ---
 
 
-**Backend Requirements:**<br>
+### Backend Requirements:
 Java 17+ (OpenJDK): https://www.java.com/en/download/manual.jsp<br>
 Maven Installed and in your PATH: https://maven.apache.org/download.cgi<br>
 
@@ -13,12 +13,12 @@ Maven Installed and in your PATH: https://maven.apache.org/download.cgi<br>
 ---
 
 
-**Front End Requirements:**
+### Front End Requirements:
 Node.js (version 16+ reccomended): https://nodejs.org/en/download
 
 ---
 
-**How to Install**
+### How to Install
 1. Go to [Spring Initializr](https://start.spring.io/)
 2. Use the following settings:
    - **Project**: Maven
@@ -38,3 +38,7 @@ Node.js (version 16+ reccomended): https://nodejs.org/en/download
 ### Replace Project Files
 
 Once generated, replace the contents of your new project's `src/` folder with the files in this repo:
+
+---
+
+
