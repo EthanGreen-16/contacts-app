@@ -41,7 +41,7 @@ Node.js (version 16+ reccomended): https://nodejs.org/en/download
    - Extract the contacts-backend into this folder
 
 ---
-### Step 2: Creating Front End
+### Step 2: Create Front End
    - Create another folder named `contacts-frontend` inside of the main folder and open the directory
    - Run the command `npm install` and wait for your folder to finish downloading
 
